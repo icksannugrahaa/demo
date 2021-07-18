@@ -181,7 +181,14 @@
         "subscribed": true,
         "imagePath": "https://cdn-2.tstatic.net/jabar/foto/bank/images/universitas-langlangbuana-bandung_20181102_141447.jpg"
       }
-    ]
+    ],
+    "meta": {
+      "current_page": "1",
+      "next_page": "2",
+      "per_page": "10",
+      "total_count": "18",
+      "total_pages": "2"
+    }
   },
   "accounts": {
     "results": [
