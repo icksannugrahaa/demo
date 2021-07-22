@@ -1,4 +1,52 @@
 {
+  "broadcasts": {
+    "results":[
+      {
+        "id": 1,
+        "date": "21/07/2021 03:00",
+        "content": "Sahur oe sahur",
+        "class":{
+          "id": 1,
+          "title": "Mobie Development",
+          "dosen": {
+            "id": 4,
+            "name": "William Florance",
+            "phoneNumber": "+1839281293821",
+            "email": "wiliamflorance@unla.ac.id",
+            "password": "asdasd",
+            "kodePoko": "41155050180006",
+            "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoE2TmWFiOXnQunOXbWWTMLXfMJVG9L3lc3g&usqp=CAU",
+            "platNomor": "B6A8A",
+            "wifiPackageStatus": false,
+            "parkingPackageStatus": false
+          },
+          "sks": 4
+        }
+      },
+      {
+        "id": 2,
+        "date": "29/07/2021 09:00",
+        "content": "Kumpulkan tugas hari ini",
+        "class":{
+          "id": 1,
+          "title": "Mobie Development",
+          "dosen": {
+            "id": 4,
+            "name": "William Florance",
+            "phoneNumber": "+1839281293821",
+            "email": "wiliamflorance@unla.ac.id",
+            "password": "asdasd",
+            "kodePoko": "41155050180006",
+            "avatarUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoE2TmWFiOXnQunOXbWWTMLXfMJVG9L3lc3g&usqp=CAU",
+            "platNomor": "B6A8A",
+            "wifiPackageStatus": false,
+            "parkingPackageStatus": false
+          },
+          "sks": 4
+        }
+      }
+    ],
+  },
   "presence": {
     "results": [
       {
