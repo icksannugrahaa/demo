@@ -1,11 +1,11 @@
 {
   "broadcasts": {
-    "results":[
+    "results": [
       {
         "id": 1,
         "date": "21/07/2021 03:00",
         "content": "Sahur oe sahur",
-        "class":{
+        "class": {
           "id": 1,
           "title": "Mobie Development",
           "dosen": {
@@ -27,7 +27,7 @@
         "id": 2,
         "date": "29/07/2021 09:00",
         "content": "Kumpulkan tugas hari ini",
-        "class":{
+        "class": {
           "id": 1,
           "title": "Mobie Development",
           "dosen": {
@@ -45,7 +45,7 @@
           "sks": 4
         }
       }
-    ],
+    ]
   },
   "presence": {
     "results": [
